@@ -1,9 +1,11 @@
-{
-  "chainId": 101,
-  "address": "2CtfSsNnuDYRw5qmAojFfqchS74c99NVjkUwRRqL8vgk",
-  "symbol": "LJMSID",
-  "name": "Lee Jae-myung Cider",
-  "decimals": 1,
-  "logoURI": "https://hankangvegetarian.carrd.co/assets/images/gallery06/f23fdb2e_original.png",
-  "tags": ["meme", "community", "politics"]
-}
+[
+  {
+    "chainId": 101,
+    "address": "2CtfSsNnuDYRw5qmAojFfqchS74c99NjkURHWB64L8vgK",
+    "symbol": "LJMSID",
+    "name": "Lee Jae-myung Cider",
+    "decimals": 1,
+    "logoURI": "https://hankangvegetarian.carrd.co/assets/images/gallery06/f23fdb2a_original.png",
+    "tags": ["meme", "community", "politics"]
+  }
+]
